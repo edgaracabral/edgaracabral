@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **edgaracabral/edgaracabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Olá, seja bem vindo ao meu repositório de programas desenvolvidos para Ciência de Dados/Analytics.
+## Um pouco sobre minha jornada:
+- Sou formado em Engenharia de Computação pela Unicamp
+- Fiz mestrado em Management Sciences pela HEC de Montreal (oui, je parle français)
+- Fiz doutorado em Management Sciences pela University of Alberta (and English too)
+- Trabalhei vários anos como consultor em SAS, entregando soluções que incluiam Pesquisa Operacional e Otimização Matemática nesta plataforma
+- Fui professor na FGV-EAESP e na FACAMP por vários anos
+- Agora estou morando no Canadá, na cidade de Edmonton
+- Visite meu  <a href="https://www.linkedin.com/in/edgaralbertocabral/" target="_blank">LinkedIn</a> para saber mais sobre minha trajetória profissional
+- Adoro cinema e museus  
